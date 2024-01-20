@@ -1,2 +1,2 @@
-# ML-genetic-disorders
+# ML-star-classification
  
